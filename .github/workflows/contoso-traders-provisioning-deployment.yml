@@ -1,5 +1,5 @@
 name: contoso-traders-app-deployment
-'on':
+on:
   workflow_dispatch: null
   push:
     branches:
