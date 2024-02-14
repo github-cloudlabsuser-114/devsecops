@@ -601,7 +601,7 @@ resource productimagesstgacc 'Microsoft.Storage/storageAccounts@2022-05-01' = {
 
 // storage account (main website)
 resource uistgacc 'Microsoft.Storage/storageAccounts@2022-05-01' = {
-  name: uiStgAccName
+  name: demostrg1230164
   location: resourceLocation
   tags: resourceTags
   sku: {
